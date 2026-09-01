@@ -1,3 +1,11 @@
+# Roadmap Belajar
+
+## Git
+1. Git rmote
+2. Git pull request
+
+---
+
 # Roadmap Belajar C# & .NET (Dari JavaScript)
 
 ## 📋 Prasyarat
